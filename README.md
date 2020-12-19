@@ -7,4 +7,7 @@ Java 11/OpenJDK
 OCP 4
 oc cli(But you can use the webconsole).
 
-We're gonna build an Quarkus application with extensions ORM(PANACHE), HealthChecks(SmallRye) and Messaging.
+We're gonna build an Quarkus application with speficic extensions listed below:
+ - ORM(PANACHE)
+ - HealthChecks(SmallRye)
+ - Event-Driven Messaging(Vert.x).
