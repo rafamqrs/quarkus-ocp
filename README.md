@@ -1,6 +1,6 @@
 # Quarkus Application & Deploy Final App to Openshift
 
-Hi! In this sample I'm gonna show you how to create and deploy a quarkus application to Openshift 4, we will use nine extensions extensions from quarkus.io
+Hi! In this sample I'm gonna show you how to create and deploy a quarkus application to Openshift 4, we will use nine extensions from quarkus.io
 
 ### Requirements:
 
